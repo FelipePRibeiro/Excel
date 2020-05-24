@@ -1,2 +1,2 @@
 # Projetos-Dashboards-Excel
-Dashboards feitos em Excel
+Dashboards utilizando o Microsoft Excel
