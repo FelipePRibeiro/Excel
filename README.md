@@ -7,8 +7,8 @@ Dashboard criado com o intuito de acompanhar o cenário do COVID-19 no Brasil, c
 
 As informações foram tratadas usando o Power Query.
 
-* Ao entrar no arquivo, confirme para ativar os dados de conteúdo externo, para que as informações dos cards sejam atualizadas.
-* Os gráficos interativos possuem informações que não são atualizadas automaticamente.
+* Ao entrar no arquivo, confirme para ativar os dados de conteúdo externo, para que as informações dos cards sejam atualizadas de acordo com o dia acessado.
+* Os gráficos interativos não são atualizados automaticamente, sendo necessário uma atualização manual na parte dos dados.
 
 Fontes: https://www.worldometers.info/coronavirus/
         https://covid.saude.gov.br/
