@@ -13,5 +13,4 @@ As informações foram tratadas usando o Power Query.
 * Os gráficos interativos não são atualizados automaticamente, sendo necessário uma atualização manual na parte dos dados.
 
 Fontes: https://www.worldometers.info/coronavirus/
-        
         https://covid.saude.gov.br/
