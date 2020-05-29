@@ -4,7 +4,7 @@
                                         (Clique na imagem para abrir em uma qualidade melhor)
                                         
                                         
- Dashboard feito para acompanhar uma situação hipotética de um relatório de vendas de um Distribuidor para vários Supermercados,onde é possível acompanhar os faturamentos por ano de venda, faturamento por cada Supermercado cliente, quantidades vendidas por gerentes, quantidades vendidas por produtos e quantidades vendidas por tipo de pagamento.
+ Dashboard feito para acompanhar uma situação hipotética de um relatório de vendas de um Distribuidor para vários Supermercados, onde é possível acompanhar os faturamentos por ano de venda, faturamento por cada Supermercado cliente, quantidades vendidas por gerentes, quantidades vendidas por produtos e quantidades vendidas por tipo de pagamento.
  
  * Os dados são fictícios
  * Os dados foram tratados usando o Power Query
