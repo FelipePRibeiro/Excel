@@ -5,8 +5,7 @@
                                               ( Clique na imagem para abrir em uma qualidade melhor)
                                               
       
-      
-      Dashboard feito para acompanhar o cenário da Covid-19 no Brasil. Nele é possível fazer um comparativo entre 2 regiões ou 2 estados, baseado nos Casos Acumulados ou nos Óbitos Acumulados, além de possuir cards que atualizam diáriamente com as informações do dia.
+Dashboard feito para acompanhar o cenário da Covid-19 no Brasil. Nele é possível fazer um comparativo entre 2 regiões ou 2 estados, baseado nos Casos Acumulados ou nos Óbitos Acumulados, além de possuir cards que atualizam diáriamente com as informações do dia.
       
       Os dados foram tratados usando Power Query.
       
