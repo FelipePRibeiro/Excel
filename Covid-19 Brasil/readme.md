@@ -7,8 +7,8 @@
       
 Dashboard feito para acompanhar o cenário da Covid-19 no Brasil. Nele é possível fazer um comparativo entre 2 regiões ou 2 estados, baseado nos Casos Acumulados ou nos Óbitos Acumulados, além de possuir cards que atualizam diáriamente com as informações do dia.
       
-      Os dados foram tratados usando Power Query.
+Os dados foram tratados usando Power Query.
       
-* Os dados dos gráficos precisam ser alimentados manualmente.
+* Os dados dos gráficos não atualizam automaticamente, precisando de uma atualização manual.
 * Fonte: https://www.worldometers.info/coronavirus/ e https://covid.saude.gov.br/
                                              
