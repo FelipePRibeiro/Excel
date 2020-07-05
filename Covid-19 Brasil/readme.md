@@ -9,6 +9,6 @@ Dashboard feito para acompanhar o cenário da Covid-19 no Brasil. Nele é possí
       
       Os dados foram tratados usando Power Query.
       
- * Os dados dos gráficos precisam ser alimentados manualmente.
- * Fonte: https://www.worldometers.info/coronavirus/ e https://covid.saude.gov.br/
+* Os dados dos gráficos precisam ser alimentados manualmente.
+* Fonte: https://www.worldometers.info/coronavirus/ e https://covid.saude.gov.br/
                                              
